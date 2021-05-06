@@ -7,3 +7,6 @@ sklearn
 
 # Linting
 flake8
+
+# To save arbitrary Python objects
+joblib
