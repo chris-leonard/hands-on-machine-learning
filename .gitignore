@@ -1,5 +1,6 @@
 # Virtual environment #
 /env
 
-# Large model #
+# Large models #
 chapter-2/models/svr-grid-search.pkl
+chapter-2/models/svr-random-search.pkl
