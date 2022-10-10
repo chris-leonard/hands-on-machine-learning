@@ -1,5 +1,6 @@
 # pydata
 jupyter
+jupyterthemes # for dark mode in jupyter
 pandas
 matplotlib
 scipy
