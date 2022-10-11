@@ -1,13 +1,18 @@
 # pydata
-jupyter
-jupyterthemes # for dark mode in jupyter
 pandas
 matplotlib
 scipy
 sklearn
 
-# Linting
+# notebooks
+jupyter
+jupyter_contrib_nbextensions # extensions
+
+# linting
 flake8
 
-# To save arbitrary Python objects
+# code formatting
+yapf
+
+# to save arbitrary Python objects
 joblib
