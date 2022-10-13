@@ -5,14 +5,18 @@ scipy
 sklearn
 
 # notebooks
-jupyter
-jupyter_contrib_nbextensions # extensions
+# jupyter
+# jupyter_contrib_nbextensions # extensions
+jupyterlab
+jupyterlab-lsp
+jupyterlab-code-formatter
 
 # linting
 flake8
 
 # code formatting
-yapf
+black
+isort
 
 # to save arbitrary Python objects
 joblib
