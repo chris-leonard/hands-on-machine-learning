@@ -1,6 +1,10 @@
-# Virtual environment #
+# virtual environment #
 /env
 
-# Large models #
+# large models #
 chapter-2/models/svr-grid-search.pkl
 chapter-2/models/svr-random-search.pkl
+
+# hidden ipython files #
+.ipynb_checkpoints
+/.virtual_documents
