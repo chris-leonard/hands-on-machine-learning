@@ -1,12 +1,23 @@
 # pydata
-jupyter
 pandas
 matplotlib
 scipy
 sklearn
 
-# Linting
-flake8
+# notebooks
+# jupyter
+# jupyter_contrib_nbextensions # extensions
+jupyterlab
+jupyterlab-lsp
+python-lsp-server[all]
+jupyterlab-code-formatter
 
-# To save arbitrary Python objects
+# linting
+# flake8
+
+# code formatting
+black
+isort
+
+# to save arbitrary Python objects
 joblib
