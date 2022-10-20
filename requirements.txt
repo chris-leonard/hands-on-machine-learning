@@ -55,6 +55,8 @@ fastjsonschema==2.16.2
     # via nbformat
 flake8==4.0.1
     # via python-lsp-server
+graphviz==0.20.1
+    # via -r requirements.in
 idna==3.4
     # via
     #   anyio

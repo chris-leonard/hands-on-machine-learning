@@ -9,3 +9,6 @@ chapter-3/exercises/models/mnist-k-neighbours-classifier.pkl
 # hidden ipython files #
 .ipynb_checkpoints
 /.virtual_documents
+
+# describes how to visualise folders in finder #
+.DS_Store

@@ -5,15 +5,10 @@ scipy
 sklearn
 
 # notebooks
-# jupyter
-# jupyter_contrib_nbextensions # extensions
 jupyterlab
 jupyterlab-lsp
 python-lsp-server[all]
 jupyterlab-code-formatter
-
-# linting
-# flake8
 
 # code formatting
 black
@@ -21,3 +16,6 @@ isort
 
 # to save arbitrary Python objects
 joblib
+
+# to visualise trees
+graphviz
