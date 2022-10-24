@@ -195,6 +195,7 @@ numpy==1.20.2
     #   pandas
     #   scikit-learn
     #   scipy
+    #   xgboost
 packaging==21.3
     # via
     #   bleach
@@ -291,6 +292,7 @@ scipy==1.6.2
     # via
     #   -r requirements.in
     #   scikit-learn
+    #   xgboost
 send2trash==1.8.0
     # via
     #   jupyter-server
@@ -381,6 +383,8 @@ whatthepatch==1.0.2
     # via python-lsp-server
 wrapt==1.14.1
     # via astroid
+xgboost==1.6.2
+    # via -r requirements.in
 yapf==0.32.0
     # via python-lsp-server
 zipp==3.4.1

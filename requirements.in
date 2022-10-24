@@ -3,6 +3,7 @@ pandas
 matplotlib
 scipy
 sklearn
+xgboost
 
 # notebooks
 jupyterlab
