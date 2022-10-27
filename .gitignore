@@ -2,9 +2,9 @@
 /env
 
 # large models #
-chapter-2/models/svr-grid-search.pkl
-chapter-2/models/svr-random-search.pkl
-chapter-3/models/mnist-k-neighbours-classifier.pkl
+chapter-2/models/
+chapter-3/models/
+chapter-5/models/
 
 # hidden ipython files #
 .ipynb_checkpoints
