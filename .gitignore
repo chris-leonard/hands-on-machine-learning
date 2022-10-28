@@ -5,6 +5,7 @@
 chapter-2/models/
 chapter-3/models/
 chapter-5/models/
+chapter-8/datasets/
 
 # hidden ipython files #
 .ipynb_checkpoints
