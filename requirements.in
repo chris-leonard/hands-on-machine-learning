@@ -4,6 +4,7 @@ matplotlib
 scipy
 sklearn
 xgboost
+yellowbrick
 
 # notebooks
 jupyterlab
